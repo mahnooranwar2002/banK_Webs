@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "Sgy3BHJTnT8zXpgVBGyo1/sVGGQVvvEWMXE/eagdrDs=",
+  "Source": "bankwebApi",
+  "BasePath": "_content/bankwebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
